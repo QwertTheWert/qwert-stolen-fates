@@ -1,0 +1,157 @@
+{
+	"stolen-fate-bestiary": {
+		"0C9muUhjn4vAL5UW": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/devil-ferrugon.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/devil-ferrugon.webp"
+		},
+		"pFs3lFkXrwNNUsDf": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/mercenary-assassin.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/mercenary-assassin.webp"
+		},
+		"mgFca9LCxEI3pqc7": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/vharnev-the-butcher.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/vharnev-the-butcher.webp",
+				"scale": 1.5
+			}
+		},
+		"WguseVujp1LjEzq4": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/devil-uniila.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/devil-uniila.webp",
+				"scale": 1.5
+			}
+		},
+		"Yg5xl1lu0211JVi7": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/raskus.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/raskus.webp"
+		},
+		"d68XkPVTpU42q8Gj": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/mivanian-soldier.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/mivanian-soldier.webp"
+		},
+		"bmCBmw4pQeEIelkY": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/hurlilu.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/hurlilu.webp"
+		},
+		"mJyUqZYPGrCx13oT": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/oppali.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/oppali.webp",
+				"scale": 2
+			}
+		},
+		"ttUZn9WMNZzG9YdZ": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/bhanyada-swarm.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/bhanyada-swarm.webp"
+		},
+		"ax9j12x0JqBBPE5M": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/bhanyada-scavenger.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/bhanyada-scavenger.webp"
+		},
+		"eF3ndkXtyeMHpzZb": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/bhanyada-behemoth.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/bhanyada-behemoth.webp"
+		},
+		"tVZ7ijV3W1HmMwzz": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/scaleseed-nagaji.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/scaleseed-nagaji.webp",
+				"scale": 1.5
+			}
+		},
+		"590fsfQ1S0dF1C3Z": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/kannijo.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/kannijo.webp",
+				"scale": 1.5
+			}
+		},
+		"3OE96zZHIAnMbYWj": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/endlo-kiver.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/endlo-kiver.webp",
+				"scale": 3
+			}
+		},
+		"pLbDF5JJoF93vgwL": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/blade-mercenary.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/blade-mercenary.webp",
+				"scale": 3
+			}
+		},
+		"7ze52pL9OFjZBGWa": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/blade-magus.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/blade-magus.webp",
+				"scale": 2
+			}
+		},
+		"bsjCqkz0jIv9LOBS": {
+			"actor": "modules/qwert-kingmaker/assets/portraits/humanoid/hybrid/harpy.webp",
+			"token": {
+				"img": "modules/qwert-kingmaker/assets/tokens/humanoid/hybrid/harpy.webp",
+				"scale": 1.5
+			}
+		},
+		"88n1uQqK5XbIGnUF": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/queen-kawlinawk.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/queen-kawlinawk.webp",
+				"scale": 1.5
+			}
+		},
+		"oWFqioYktqayWFlS": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/arodeth-noncombat.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/arodeth-noncombat.webp"
+		},
+		"Zglw4NiZRVgmuI5x": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/ndede-false-form.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/ndede-false-form.webp"
+		},
+		"nBhR5WE7M1cp1fEm": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/drustan.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/drustan.webp"
+		}
+	},
+	"npc-gallery": {
+		"1U1URD7IyddoD5zE": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/dieral-myrnese.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/dieral-myrnese.webp"
+		}, 
+		"TCzxsJQjUpy02CsJ": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/rebels/human-rebel.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/rebels/human-rebel.webp"
+		},
+		"GoGNtiHuYycppLPk": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/skawnak.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/skawnak.webp"
+		},
+		"rsATu823vatRe7QJ": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/vudran-soldier.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/vudran-soldier.webp",
+				"scale": 1.5
+			}
+		},
+		"t7QwdZ2m7AbuRWqd": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/japulipel.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/japulipel.webp"
+		},
+		"R5SWtNtQt8l7WLYk": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/nobles/masc-noble.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/nobles/masc-noble.webp"
+		},
+		"5LvpvIMhaYLcyAk6": {
+			"actor":"modules/qwert-stolen-fates/assets/portraits/firebrand-braggart.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/firebrand-braggart.webp"
+		}
+	},
+	"hazards": {
+		"UX7QKytewemOnNeX": {
+			"actor":"icons/magic/fire/flame-burning-campfire-rocks.webp",
+			"token": "icons/magic/fire/flame-burning-campfire-rocks.webp"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Qwert's Stolen Fates",
+  "description": "Stolen Fates Adventure Documents",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "QwertTheWert",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "11"
+  },
+  "packs": [
+    {
+      "name": "stolen-fates-ap",
+      "label": "Stolen Fates",
+      "path": "packs/stolen-fates-ap.db",
+      "type": "Adventure",
+      "system": "pf2e",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "qwert-stolen-fates": {
+      "pf2e-art": "modules/qwert-stolen-fates/image-mapping.json"
+    }
+  },
+  "manifest": "https://raw.githubusercontent.com/QwertTheWert/qwert-stolen-fates/main/module.json",
+  "download": "https://github.com/QwertTheWert/qwert-stolen-fates/archive/refs/heads/main.zip",
+  "id": "qwert-stolen-fates"
+}
