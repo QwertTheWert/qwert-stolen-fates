@@ -1,3 +1,9 @@
-2023/06/24-20:26:41.916 10a8 Recovering log #5
-2023/06/24-20:26:41.920 10a8 Delete type=0 #5
-2023/06/24-20:26:41.920 10a8 Delete type=3 #4
+2023/06/25-06:35:10.603 ad0 Recovering log #9
+2023/06/25-06:35:10.609 ad0 Delete type=0 #9
+2023/06/25-06:35:10.609 ad0 Delete type=3 #8
+2023/06/25-06:53:13.046 cdc Level-0 table #13: started
+2023/06/25-06:53:13.320 cdc Level-0 table #13: 1170358 bytes OK
+2023/06/25-06:53:13.326 cdc Delete type=0 #11
+2023/06/25-07:19:26.186 cdc Level-0 table #15: started
+2023/06/25-07:19:26.281 cdc Level-0 table #15: 936251 bytes OK
+2023/06/25-07:19:26.284 cdc Delete type=0 #12
