@@ -113,6 +113,66 @@
 		"nBhR5WE7M1cp1fEm": {
 			"actor": "modules/qwert-stolen-fates/assets/portraits/drustan.webp",
 			"token": "modules/qwert-stolen-fates/assets/tokens/drustan.webp"
+		},
+		"FHBQg45hdMXLqy3I": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/wrath-riot.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/wrath-riot.webp",
+				"scale": 1.5
+			}
+		},
+		"okLgvERf3ul8JxKk": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/all-seeing-hajeck.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/all-seeing-hajeck.webp"
+		},
+		"ZBMuaCCbIdv8euNx": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/fates-prophet.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/fates-prophet.webp",
+				"scale": 1.5
+			}
+		},
+		"9uUmyAyVVq3bowo7": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/demon-ghalzarokh.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/demon-ghalzarokh.webp",
+				"scale": 2
+			}
+		},
+		"mLDzt35dEHUimp1E": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/demonic-rabble.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/demonic-rabble.webp",
+				"scale": 2
+			}
+		},
+		"2crt0oeOnu3G3Nhw": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/demongate-collossus.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/demongate-collossus.webp",
+				"scale": 1.5
+			}
+		},
+		"jXjo59pIAMteUtUD": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/the-shadow-prince.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/the-shadow-prince.webp",
+				"scale": 1.5
+			}
+		},
+		"s8pBIwZjOdep4Lfp": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/demon-katpaskir.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/demon-katpaskir.webp",
+				"scale": 2
+			}
+		},
+		"asagrj8H4W7ioops": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/the-prince-of-wolves.webp",
+			"token": {
+				"img": "modules/qwert-stolen-fates/assets/tokens/the-prince-of-wolves.webp",
+				"scale": 2
+			}
 		}
 	},
 	"npc-gallery": {
