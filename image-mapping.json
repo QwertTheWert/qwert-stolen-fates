@@ -173,6 +173,10 @@
 				"img": "modules/qwert-stolen-fates/assets/tokens/the-prince-of-wolves.webp",
 				"scale": 2
 			}
+		},
+		"IKlSxZfyN1wRZsQn": {
+			"actor": "modules/qwert-stolen-fates/assets/portraits/shaldar-falls-far.webp",
+			"token": "modules/qwert-stolen-fates/assets/tokens/shaldar-falls-far.webp"
 		}
 	},
 	"npc-gallery": {
